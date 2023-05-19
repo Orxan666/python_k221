@@ -1,0 +1,1 @@
+'usestrict';//GLOBALLOCAL//FUNCTIONBLOCKconsta=5;if(a==2){constb=3console.log(b);}else{console.log("blockscopeoldugunagorecolecixmir");}
